@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/barrot/projects/SDLTest/main.cpp
+iostream
+-
+iomanip
+-
+string
+-
+fstream
+-
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+GL/glew.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+

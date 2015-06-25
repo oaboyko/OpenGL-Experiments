@@ -1,0 +1,1 @@
+/home/barrot/projects/SDLTest/build/CMakeFiles/sdltest.dir
